@@ -1,0 +1,7 @@
+syntax: glob
+*~
+bin/
+docs/
+parts/
+.installed.cfg
+sphinx/_build/
