@@ -2,16 +2,70 @@
  PyCon JP 2011 運営レポート
 ============================
 
-8/27 日に行われた PyCon JP およびその翌日の Sprint の様子を運営視点でレポートします云々
+.. figure:: /_static/logo.png
 
-開催概要
+はじめに
 ========
 
-時間・場所・参加人数など
+`PyCon JP 2011`_ は参加者総数 226名(運営チーム 22名、当日スタッフ 14名を含む)、トラック数3、セッション数21(LT含む、OpenSpace含まず) と前回 `PyCon mini JP`_ を大きく上回る規模で開催され、成功を収めることができました、
 
-スポンサーとか協力とかも
+参加いただいた皆様、スタッフの皆様お疲れ様でした。そしてありがとうございました。
 
-それぞれの写真とかあるといいね!
+今回は、 PyCon JP 2011 運営視点でのレポートとして、 `PyCon JP 2011`_ の開催レポートをお伝えします。
+
+
+スポンサー・協力
+----------------
+
+PyCon JP 2011 は以下のような様々な大学・企業の協賛・協力によって開催されました。
+ご協力いただいた大学・企業にお礼を申し上げます。
+
+
+会場提供
+~~~~~~~~
+
+- `産業技術大学院大学 <http://aiit.ac.jp/>`_
+
+Gold Sponsor
+~~~~~~~~~~~~
+
+- `株式会社gumi <http://gu3.co.jp/>`_
+
+Silver Sponsor
+~~~~~~~~~~~~~~
+
+- `株式会社Nexedi <http://www.nexedi.co.jp/>`_
+- `株式会社エスキュービズム <http://www.s-cubism.jp/>`_
+
+Bronze Sponsor
+~~~~~~~~~~~~~~
+
+- `株式会社ビープラウド <http://www.beproud.jp/>`_
+- `株式会社アクセンス・テクノロジー <http://www.beproud.jp/>`_
+- `株式会社キャッチボールトゥエンティワン・インターネット・コンサルティング <http://www.cb21.co.jp/>`_
+- `アリエル・ネットワーク株式会社 <http://www.ariel-networks.com/>`_
+
+Snack&Beverage
+~~~~~~~~~~~~~~
+
+- `株式会社デジタルガレージ <http://www.garage.co.jp/>`_
+- `楽天株式会社 <http://www.rakuten.co.jp/>`_
+
+告知協力
+~~~~~~~~
+
+- `技術評論社 <http://gihyo.jp/>`_
+- `CodeZine <http://codezine.jp/>`_
+- `オライリー・ジャパン <http://www.oreilly.co.jp/>`_
+
+ノベルティ提供
+~~~~~~~~~~~~~~
+
+- `Mozilla Japan <http://mozilla.jp/>`_
+
+.. _`PyCon JP 2011`: http://2011.pycon.jp/
+.. _`PyCon mini JP`: http://sites.google.com/site/pyconminijp/
+.. _`産業技術大学院大学`: http://aiit.ac.jp/
 
 
 基調講演について
