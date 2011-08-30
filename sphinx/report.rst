@@ -179,6 +179,97 @@ Sprint
 .. また個人でテーマを決め、参加者とコミュニケーションをとりながら取り組んでる方も
 .. いました。
 
+会場に間して
+============
+
+.. sectionauthor:: もりもと
+
+会場協力
+--------
+
+会場は `産業技術大学院大学`_ で開催されました。以前、私が同大学で開催されている
+`InfoTalk`_ (ICT 関連の高度な技術や流行りの話題を取り上げる勉強会) に参加したときに
+`小山先生`_ と初めて出会いました。その後、会場が決まらず途方に暮れていた矢先、
+小山先生へ相談したところ、日程の調整や学内のイベント利用に伴う申請手続きに尽力頂きました。
+
+`土屋先生`_ は `運営メーリングリスト`_ と `月例スタッフミーティング`_ にも参加してもらい、
+会場の見学、機材の確認、大学側との調整等で積極的に今回の運営に関わって頂きました。
+おかげさまで会場の準備や確認が円滑に行われました。
+
+PyCon JP を裏方で支えて頂いたお二方にお礼を申し上げます。
+
+.. _産業技術大学院大学: http://aiit.ac.jp/
+.. _小山先生: http://aiit.ac.jp/view.rbz?nd=109&ik=1&pnp=102&pnp=108&pnp=109&cd=11
+.. _土屋先生: http://aiit.ac.jp/view.rbz?nd=109&ik=1&pnp=102&pnp=108&pnp=109&cd=28
+.. _InfoTalk: http://pk.aiit.ac.jp/index.php?InfoTalk
+.. _運営メーリングリスト: http://groups.google.com/group/pycon-organizers-jp?pli=1
+.. _月例スタッフミーティング: http://2011.pycon.jp/misc/team/meeting
+
+Ustream ライブ配信
+------------------
+
+3つのトラック (メイントラック、英語トラック、サブトラック) を設けました。
+`スフィアリンクス株式会社`_ が運営する `ストリームプラス`_ という `USTREAM`_ 配信サービスを利用しました。
+
+サービス内容についての打ち合わせ、会場の下見・配信テスト、前日の機材準備と、
+とても丁寧に対応して頂いて、安心してライブ配信をお任せすることができました。
+
+実際に `Tarek Ziadé`_ 氏の `Keynote -5 tips for packaging your Python projects-`_ の録画映像を見てみましょう。
+30秒経過した辺りにタイトルと発表者名のテロップが表示され、
+1分45秒経過した辺りからプレゼン資料をメインに、発表者をサブ画面で表示するといった映像に切り替わります。
+これは PC の VGA 出力とビデオカメラの出力を合成して Ustream へ配信することで実現しています。
+
+`速報版 PyCon JP 2011 諸々まとめ`_ に全ての講演への Ustream アーカイブへのリンクがあります。
+当日に他の講演と重なって見れなかった講演をぜひご覧になってください。
+
+.. _スフィアリンクス株式会社: http://ustream.siteplus.jp/about/
+.. _ストリームプラス: http://ustream.siteplus.jp/
+.. _USTREAM: http://www.ustream.tv/
+.. _Tarek Ziadé: http://2011.pycon.jp/program/keynote
+.. _Keynote -5 tips for packaging your Python projects-: http://www.ustream.tv/recorded/16893512
+.. _速報版 PyCon JP 2011 諸々まとめ: http://2011.pycon.jp/program/collection
+
+会場担当
+--------
+
+運営チームでの情報共有に Google docs を利用しています。
+会場担当として作成したドキュメントは以下になります。
+
+* 会場提供チェックリスト
+* 教室・施設チェックリスト
+* 会場見学の要項と決定事項 (第1回と第2回)
+* 業者さんの搬入出申請資料
+* 展示ブースの確認事項
+* 無線 LAN 接続設定資料
+* 映像配信サービス調査資料
+* 会場見取り図
+* 当日の会場の諸注意
+
+こういったドキュメントの蓄積は次のイベントを開催する際の会場設営のノウハウとなります。
+このチェックリストのフォーマットに従って穴埋めすれば必要な項目を列挙できる、
+または資料を使い込むことで内容が洗練されていくといったことに繋がります。
+
+他のイベント運営はどのように情報共有されているか分かりませんが、
+ドキュメントをしっかり作り込んでいくのは Pythonista らしい習慣かもしれません (^ ^;;
+
+PyCon Blog
+----------
+
+PyCon を初めて日本で開催するあたり、世界へ向けてアピールする手段の1つとして `PyCon Blog`_ で発信しました。
+
+* CFP 募集 (`PyCon JP 2011 - Call For Proposals`_) 
+* 参加登録受付 (`PyCon JP 2011 - Registration is Open`_)
+
+その甲斐があったのか (？)、台湾から2人の方 (`Sinker Li`_ と `Hsin-Yi Chen`_) が発表してくれて、そして海外から xx 人の方が参加してくれました。
+今後も PyCon JP は日本で開催する国際イベントだよという意思表示を示していければ良いなと考えています。
+
+.. _PyCon Blog: http://pycon.blogspot.com/
+.. _PyCon JP 2011 - Call For Proposals: http://pycon.blogspot.com/2011/05/pycon-jp-2011-call-for-proposals.html
+.. _PyCon JP 2011 - Registration is Open: http://pycon.blogspot.com/2011/08/pycon-jp-2011-registration-is-open.html
+.. _Sinker Li: http://www.ustream.tv/recorded/16895105
+.. _Hsin-Yi Chen: http://www.ustream.tv/recorded/16898172
+
+
 運営に関して
 ============
 
