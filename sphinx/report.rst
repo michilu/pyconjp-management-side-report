@@ -189,6 +189,14 @@ Office Hour 担当の cocoatomo です。
 Office Hour は「Python のすごい人と気軽に話せる」というコンセプトで開催しました。
 会場の廊下の一角にホワイトボードと長机を設置し、お菓子と飲み物を楽しみながら講師役の人と談笑できる席を設けました。
 
+
+.. figure:: /_static/officehour.jpg
+    :scale: 50%
+
+    Python の父 Guido 氏とビデオチャットで会話する Office Hour 参加者
+
+
+
 あるテーマでは活発な意見交換が行われたり、他のテーマでは Hack-a-thon が開始されたり、貴重な出会いの場として活用されていて30分という枠では足りないくらいでした。
 Office Hour スペシャルゲストの Guido の回では質問者がほぼ絶えることなく、ビデオチャットの画面の後ろに質問者が列を作っていました。
 
@@ -216,7 +224,26 @@ Sprint
 ======
 
 - 事前登録チームについて
-- 様子
+
+様子
+====
+
+.. figure:: /_static/sprint1.jpg
+    :scale: 50%
+
+    黙々と開発する pyramid チーム
+
+.. figure:: /_static/sprint2.jpg
+    :scale: 50%
+
+    デスクトップPCを持ち込む人もいた Python-RDMA チーム
+
+.. figure:: /_static/sprint3.jpg
+    :scale: 50%
+
+    語らう PyPy チーム
+
+
 - なんと! Red Bull が来てました!
 - 発表内容
 
