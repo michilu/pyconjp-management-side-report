@@ -342,7 +342,7 @@ PyCon を初めて日本で開催するあたり、世界へ向けてアピー�
 * CFP 募集 (`PyCon JP 2011 - Call For Proposals`_) 
 * 参加登録受付 (`PyCon JP 2011 - Registration is Open`_)
 
-その甲斐があったのか (？)、台湾から2人の方 (`Sinker Li`_ と `Hsin-Yi Chen`_) が発表してくれて、そして海外から xx 人の方が参加してくれました。
+その甲斐があったのか (？)、台湾から2人の方 (`Sinker Li`_ と `Hsin-Yi Chen`_) が日本へやってきて発表してくれました。
 今後も PyCon JP は日本で開催する国際イベントだよという意思表示を示していければ良いなと考えています。
 
 .. _PyCon Blog: http://pycon.blogspot.com/
