@@ -108,3 +108,17 @@
    ブログ: `rokujyouhitomaの日記 <http://d.hatena.ne.jp/rokujyouhitoma/>`_
    サイト: `rokujyouhitoma.com <http://rokujyouhitoma.com>`_
    所属: `Remember The Milk <https://www.rememberthemilk.com/about/>`_ 、Python温泉系、 `Sphinx-Users.jp <http://sphinx-users.jp/>`_ 、 `pypy-ja <https://groups.google.com/forum/#!forum/pypy-ja>`_ 、 `java-ja <http://java-ja.yoshiori.org/>`_ 、 `若手IT勉強会 <http://www7.atwiki.jp/young-study/>`_
+
+森本 哲也(モリモト テツヤ)
+
+    .. image:: /_static/t2y.jpg
+
+    一介のプログラマ。
+
+    `Anaconda <http://fedoraproject.org/wiki/Anaconda>`_
+    のソースを読み始めたきっかけから Python という言語の特徴やプログラミングに興味をもつようになる。
+    プログラマとして生きていくにはどうすれば良いかを日々考えている。
+    オープンソースやそのコミュニティが大好き。
+
+    Twitter: `@t2y <http://twitter.com/#!/t2y>`_
+    ブログ: `forest book <http://d.hatena.ne.jp/t2y-1979/>`_
