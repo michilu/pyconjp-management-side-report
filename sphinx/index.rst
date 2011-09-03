@@ -15,6 +15,8 @@ Contents:
    report_hara
    bpstudy
 
+   authors
+
 Indices and tables
 ==================
 
