@@ -83,6 +83,10 @@
 
 畠 弥峰(ハタ ヒロタカ)
 
+   .. note::
+
+       modified
+
    .. image:: /_static/flagboy.png
 
    普通のプログラマ。業務で5年近くPythonを使用中で、ここ一年ちょっとはPython/Djangoでソーシャルゲームを作っている。
@@ -94,6 +98,10 @@
    Twitter: `@flag_boy <https://twitter.com/#!/flag_boy>`_
 
 池 徹(イケ トオル)
+
+   .. note::
+
+       modified
 
    .. image:: /_static/rokujyouhitoma.jpg
 
