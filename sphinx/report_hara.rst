@@ -74,6 +74,8 @@ C API への誘(いざな)い
 
 .. figure:: /_static/h_cocoatomo.jpg
    :scale: 50%
+   
+   講演する@cocoatomo氏
 
 次はPython公式ドキュメントの翻訳で知られる、@cocoatomoさんによるPython C/APIのセッションをご紹介します。PythonからCを使えたり、CからPythonを使えるようになっていることは知っていても、実際の使い方などについては知らないという人も多いのではないでしょうか。
 
