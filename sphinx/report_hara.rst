@@ -278,7 +278,7 @@ Pythonでテストをする際、unittestを使うがメソッド名が長すぎ
 PyCon JP 2011 Party
 ===================
 
-.. figure:: /_static/h_party.jpg
+.. figure:: /_static/h_party.JPG
    :scale: 50%
     
    Partyの様子
