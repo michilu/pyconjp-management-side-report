@@ -12,8 +12,6 @@ Contents:
    :maxdepth: 2
 
    report
-   report_hara
-   bpstudy
 
    authors
 
