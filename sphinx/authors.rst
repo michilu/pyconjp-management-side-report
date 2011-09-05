@@ -130,3 +130,22 @@
 
     Twitter: `@t2y <http://twitter.com/#!/t2y>`_
     ブログ: `forest book <http://d.hatena.ne.jp/t2y-1979/>`_
+
+
+清水川 貴之(シミズカワ タカユキ)
+
+   .. image:: /_static/shimizukawa.jpg
+
+   PyCon JP 2011 副座長。
+
+   2003年にZope2と出会い、それがオープンソース等のコミュニティー活動
+   を始めるきっかけとなった。業務ではPythonやRubyでWeb業務システムの開発
+   などを行う。
+
+   Pythonに限らず勉強会などに参加し、そういった活動がきっかけで
+   エキスパートPythonプログラミングを4人で翻訳・出版させていただいた。
+   現在、同書の読書会を主催の他、Sphinx-users.jp 副会長などをつとめている。
+
+   サイト: `http://清水川.jp/ <http://清水川.jp/>`_
+   Twitter: `@shimizukawa <http://twitter.com/shimizukawa>`_
+
